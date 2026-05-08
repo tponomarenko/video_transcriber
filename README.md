@@ -65,7 +65,7 @@ cd video_transcriber
 Create and activate a virtual environment:
 
 ```bash
-python -m venv .venv
+python3 -m venv .venv
 ```
 
 On Windows:
