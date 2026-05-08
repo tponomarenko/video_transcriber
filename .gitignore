@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Input and output files
+input/*
+output/*
+
+# Keep folder structure
+!input/.gitkeep
+!output/.gitkeep
+
+# Media files
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.flv
+*.mp3
+*.wav
+*.m4a
+
+# Text transcripts
+*_transcript.txt
+*_notes.txt
+
+# System files
+.DS_Store
+Thumbs.db
