@@ -483,17 +483,6 @@ This tool can be used for:
 - Subtitle formats such as `.srt` or `.vtt` are not generated yet.
 - The script does not extract existing YouTube subtitles; it transcribes the audio track.
 
-## Possible future improvements
-
-- Add command-line arguments for language and model size
-- Add optional automatic language detection
-- Add `.srt` subtitle export
-- Add timestamps
-- Add speaker diarization
-- Add logging to a separate file
-- Add option to skip existing transcript files
-- Add support for custom output filenames
-
 ## License
 
 This project is licensed under the MIT License.
